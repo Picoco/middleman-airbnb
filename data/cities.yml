@@ -1,0 +1,18 @@
+- name: Paris
+  country: France
+  address: "16, villa Gaudelet 75011 Paris"
+  owner: Sebastien
+  github: ssaunier
+  description: Charming room in Montmartre
+- name: Tokyo
+  country: Japon
+  address: "461-1040, Harumi Ofuisutawax(3-kai), Chuo-ku, Tokyo"
+  owner: Boris
+  github: papillard
+  description: Small flat in Tokyo
+- name: London
+  country: UK
+  address: "1 Lamphey Road, London"
+  owner: Romain
+  github: monsieurpaillard
+  description: Nice flat in Picadilly
